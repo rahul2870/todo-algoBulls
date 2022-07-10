@@ -2,6 +2,8 @@
 
 ### Basic web app with local storage
 
+### [app link : ](https://lucent-kheer-eebe78.netlify.app/)
+
 
 #### CRUD operation, Form handling and basic small features.
  
